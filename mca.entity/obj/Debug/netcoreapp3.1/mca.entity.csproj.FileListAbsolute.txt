@@ -1,0 +1,8 @@
+C:\Users\Xlog User\source\repos\MyContactsAPI\mca.entity\bin\Debug\netcoreapp3.1\mca.entity.deps.json
+C:\Users\Xlog User\source\repos\MyContactsAPI\mca.entity\bin\Debug\netcoreapp3.1\mca.entity.dll
+C:\Users\Xlog User\source\repos\MyContactsAPI\mca.entity\bin\Debug\netcoreapp3.1\mca.entity.pdb
+C:\Users\Xlog User\source\repos\MyContactsAPI\mca.entity\obj\Debug\netcoreapp3.1\mca.entity.AssemblyInfoInputs.cache
+C:\Users\Xlog User\source\repos\MyContactsAPI\mca.entity\obj\Debug\netcoreapp3.1\mca.entity.AssemblyInfo.cs
+C:\Users\Xlog User\source\repos\MyContactsAPI\mca.entity\obj\Debug\netcoreapp3.1\mca.entity.csproj.CoreCompileInputs.cache
+C:\Users\Xlog User\source\repos\MyContactsAPI\mca.entity\obj\Debug\netcoreapp3.1\mca.entity.dll
+C:\Users\Xlog User\source\repos\MyContactsAPI\mca.entity\obj\Debug\netcoreapp3.1\mca.entity.pdb
